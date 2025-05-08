@@ -9,3 +9,8 @@ Microsoft OneNote
 Microsoft PowerPoint
 Microsoft Teams
 TextSniper
+Numbers
+iMovie
+Keynote
+Pages
+GarageBand
