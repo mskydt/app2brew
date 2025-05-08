@@ -1,3 +1,6 @@
+# exclude_apps.txt
+# One app name per line
+
 OneDrive
 MacUpdater
 Microsoft Word

@@ -1,0 +1,11 @@
+# aliases.txt
+# Format: Application Name::brew-cask-or-formula-name
+
+DisplayLink Manager::displaylink
+Microsoft Word::microsoft-office
+Google Chrome::google-chrome
+ZeroTier::zerotier-one
+draw.io::drawio
+zoom.us::zoom
+iTerm::iterm2
+Dropzone 4::dropzone
